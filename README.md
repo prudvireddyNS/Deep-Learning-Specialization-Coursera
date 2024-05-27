@@ -4,7 +4,7 @@ This repository contains my coursework for the Deep Learning Specialization by A
 
 ## Certificate
 
-![Certificate](Certificate/Coursera%20QANSZTA7JJJ8_page-0001.jpg)
+![Certificate](Certificate/Coursera%20BRW498U6TA7Q_page-0001.jpg)
 
 ## Courses
 
